@@ -1,0 +1,16 @@
+.nav {
+    height: 75px;
+    background-color: #35704e;
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+}
+
+ul li {
+    display: inline;
+    color: white;
+    padding: 20px 10px 20px 20px;
+    cursor: pointer;
+}
+ul {
+    -webkit-padding-start: 0px;
+}

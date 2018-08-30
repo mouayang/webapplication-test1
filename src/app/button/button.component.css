@@ -1,0 +1,11 @@
+.primary-btn {
+    background: rgba(10,50,60,.8);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    transition: .5s;
+    cursor: pointer;
+}
+.primary-btn:hover {
+    background: rgba(10,50,60,1);
+}
